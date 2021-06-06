@@ -32,4 +32,4 @@ def specialNumber(n):
          
 # Driver code
 n = 59
-specialNumber(n)
+specialNumber(n///)
